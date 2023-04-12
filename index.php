@@ -17,7 +17,7 @@
         </h1>
     </header>
     <main>
-        <section class="">
+        <section class="first">
             <div class="code_php">
                 <?php
                 $nickname = ' Александр!';
@@ -33,7 +33,13 @@
             <div class=""></div>
             <div class=""></div>
         </section>
-        <section class=""></section>
+        <section class="begin">
+            <h3></h3>
+            <div class=""></div>
+            <div class=""></div>
+            <div class=""></div>
+            <div class=""></div>
+        </section>
         <section class=""></section>
         <section class=""></section>
         <section class=""></section>
